@@ -1,7 +1,1 @@
 this file will be used for keeping notes.
-
- git config --global user.email "debsettarti@gmail.com"
-  git config --global user.name "debartisett"
-
-  i am from aot
-
